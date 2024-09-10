@@ -1,4 +1,4 @@
-![logo](https://github.com/Amrendra789/Amrendra789/blob/main/github-header-image.png)
+![logo](https://github.com/Amrendra789/Amrendra789/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Amrendra Pratap Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
